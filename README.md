@@ -2,6 +2,10 @@
 
 # rustlings 🦀❤️
 
+I finished all exercises.
+
+![https://github.com/owenramber1989/rustlings/blob/main/image.png](image.png)
+
 </div>
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
